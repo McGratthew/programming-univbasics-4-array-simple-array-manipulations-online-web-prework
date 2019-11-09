@@ -42,4 +42,5 @@ end
 
 def using_delete(array, element)
   array.delete
+  new_array = array
 end
